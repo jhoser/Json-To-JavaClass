@@ -1,0 +1,38 @@
+{
+    "Aluno": [
+      {
+        "nome": "José",
+        "cpf": "12341234",
+        "telefone": "9999999",
+        "Teste": {
+          "campo_1": "campo",
+          "campo_2": "campo2"
+        },
+        "Turma": [
+          {
+            "codigo": "CI1061",
+            "nome": "Técnicas em modelagem"
+          },
+          {
+            "codigo": "CI1057",
+            "nome": "Algoritmos 3"
+          }
+        ]
+      },
+      {
+        "nome": "Carlos",
+        "cpf": "123456",
+        "telefone": "8888888",
+        "Turma": [
+          {
+            "codigo": "CI092",
+            "nome": "Técnicas em modelagem"
+          },
+          {
+            "codigo": "CI1056",
+            "nome": "Algoritmos 2"
+          }
+        ]
+      }
+    ]
+  }
